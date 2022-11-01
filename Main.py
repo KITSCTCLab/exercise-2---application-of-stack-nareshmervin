@@ -17,7 +17,6 @@ class Evaluate:
     self.size_of_stack = size
     self.stack = []
 
-
   def isEmpty(self):
     """
     Check whether the stack is empty.
